@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1599869122326' stop='1599869123711'>
+    <name>Multiple windows</name>
+    <title>Multiple windows</title>
+    <test-cases>
+        <test-case start='1599869122326' status='broken' stop='1599869123710'>
+            <name>Open a new tab</name>
+            <title>Open a new tab</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>parentGUID is not defined</message>
+                <stack-trace>ReferenceError: parentGUID is not defined
+                    at MWPage.switchBack (/Users/jaon/Desktop/hear/test/pageobjects/multiwindow.page.js:42:32)
+                    at Context.&lt;anonymous> (/Users/jaon/Desktop/hear/test/specs/multiwindows.spec.js:24:10)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

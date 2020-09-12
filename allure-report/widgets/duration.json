@@ -1,0 +1,111 @@
+[ {
+  "uid" : "f8f2cad0384c561e",
+  "name" : "Input Field - Enable",
+  "time" : {
+    "start" : 1599857023718,
+    "stop" : 1599857026957,
+    "duration" : 3239
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "38d84395b78c554b",
+  "name" : "should login with valid credentials",
+  "time" : {
+    "start" : 1599866879253,
+    "stop" : 1599866879719,
+    "duration" : 466
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "473b9e0f9580a84c",
+  "name" : "should login with invalid credentials",
+  "time" : {
+    "start" : 1599866877224,
+    "stop" : 1599866879252,
+    "duration" : 2028
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "30eaa92a1b494c34",
+  "name" : "Checkbox - Remove",
+  "time" : {
+    "start" : 1599857020537,
+    "stop" : 1599857023718,
+    "duration" : 3181
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b6bd36685ba60365",
+  "name" : "Table 2 - sorting of last names by alphabetic order",
+  "time" : {
+    "start" : 1599866884711,
+    "stop" : 1599866884868,
+    "duration" : 157
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5889be0caca21398",
+  "name" : "Input Field - Disable",
+  "time" : {
+    "start" : 1599857026957,
+    "stop" : 1599857033282,
+    "duration" : 6325
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "267b358eb22b872f",
+  "name" : "Table 1 - sorting of last names by alphabetic order",
+  "time" : {
+    "start" : 1599866877224,
+    "stop" : 1599866884531,
+    "duration" : 7307
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2dd8c5c3e35bb614",
+  "name" : "Table 2 - sorting of first names by alphabetic order",
+  "time" : {
+    "start" : 1599866884868,
+    "stop" : 1599866885033,
+    "duration" : 165
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a95b103ab573c554",
+  "name" : "Checkbox - Add",
+  "time" : {
+    "start" : 1599857012342,
+    "stop" : 1599857020537,
+    "duration" : 8195
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "778dd378af5399b7",
+  "name" : "Table 1 - sorting of first names by alphabetic order",
+  "time" : {
+    "start" : 1599866884532,
+    "stop" : 1599866884711,
+    "duration" : 179
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b2c5017cad3164b1",
+  "name" : "Handle multiple windows",
+  "time" : {
+    "start" : 1599866877227,
+    "stop" : 1599866878668,
+    "duration" : 1441
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,58 @@
+{
+  "uid" : "a95b103ab573c554",
+  "name" : "Checkbox - Add",
+  "fullName" : "Dynamic Controls.Checkbox - Add",
+  "historyId" : "3dbb64269adadf0db4064a91ed0bb368",
+  "time" : {
+    "start" : 1599857012342,
+    "stop" : 1599857020537,
+    "duration" : 8195
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Dynamic Controls"
+  }, {
+    "name" : "testClass",
+    "value" : "Dynamic Controls"
+  }, {
+    "name" : "testMethod",
+    "value" : "Checkbox - Add"
+  }, {
+    "name" : "package",
+    "value" : "Dynamic Controls"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a95b103ab573c554.json",
+  "parameterValues" : [ "chrome" ]
+}

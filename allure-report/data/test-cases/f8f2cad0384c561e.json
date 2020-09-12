@@ -1,0 +1,58 @@
+{
+  "uid" : "f8f2cad0384c561e",
+  "name" : "Input Field - Enable",
+  "fullName" : "Dynamic Controls.Input Field - Enable",
+  "historyId" : "8c87f9188c73fedf9d1c99421ab2fdfb",
+  "time" : {
+    "start" : 1599857023718,
+    "stop" : 1599857026957,
+    "duration" : 3239
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Dynamic Controls"
+  }, {
+    "name" : "testClass",
+    "value" : "Dynamic Controls"
+  }, {
+    "name" : "testMethod",
+    "value" : "Input Field - Enable"
+  }, {
+    "name" : "package",
+    "value" : "Dynamic Controls"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f8f2cad0384c561e.json",
+  "parameterValues" : [ "chrome" ]
+}

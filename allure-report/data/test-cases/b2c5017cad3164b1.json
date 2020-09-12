@@ -1,0 +1,74 @@
+{
+  "uid" : "b2c5017cad3164b1",
+  "name" : "Handle multiple windows",
+  "fullName" : "Multiple windows.Handle multiple windows",
+  "historyId" : "cb5fd16d78d950fd3861cf57ce8402c",
+  "time" : {
+    "start" : 1599866877227,
+    "stop" : 1599866878668,
+    "duration" : 1441
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-2"
+  }, {
+    "name" : "suite",
+    "value" : "Multiple windows"
+  }, {
+    "name" : "testClass",
+    "value" : "Multiple windows"
+  }, {
+    "name" : "testMethod",
+    "value" : "Handle multiple windows"
+  }, {
+    "name" : "package",
+    "value" : "Multiple windows"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6851b9660aa16952",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599857012278,
+        "stop" : 1599857015073,
+        "duration" : 2795
+      }
+    }, {
+      "uid" : "6314f8064d80b6a2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599856920558,
+        "stop" : 1599856922044,
+        "duration" : 1486
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b2c5017cad3164b1.json",
+  "parameterValues" : [ "chrome" ]
+}

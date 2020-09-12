@@ -1,0 +1,56 @@
+{
+  "uid" : "6314f8064d80b6a2",
+  "name" : "Handle multiple windows",
+  "fullName" : "Multiple windows.Handle multiple windows",
+  "historyId" : "cb5fd16d78d950fd3861cf57ce8402c",
+  "time" : {
+    "start" : 1599856920558,
+    "stop" : 1599856922044,
+    "duration" : 1486
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-2"
+  }, {
+    "name" : "suite",
+    "value" : "Multiple windows"
+  }, {
+    "name" : "testClass",
+    "value" : "Multiple windows"
+  }, {
+    "name" : "testMethod",
+    "value" : "Handle multiple windows"
+  }, {
+    "name" : "package",
+    "value" : "Multiple windows"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6314f8064d80b6a2.json",
+  "parameterValues" : [ "chrome" ]
+}

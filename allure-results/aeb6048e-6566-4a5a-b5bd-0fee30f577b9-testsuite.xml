@@ -1,0 +1,63 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1599866877224' stop='1599866885034'>
+    <name>Tables</name>
+    <title>Tables</title>
+    <test-cases>
+        <test-case start='1599866877224' status='passed' stop='1599866884531'>
+            <name>Table 1 - sorting of last names by alphabetic order</name>
+            <title>Table 1 - sorting of last names by alphabetic order</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-3'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1599866884532' status='passed' stop='1599866884711'>
+            <name>Table 1 - sorting of first names by alphabetic order</name>
+            <title>Table 1 - sorting of first names by alphabetic order</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-3'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1599866884711' status='passed' stop='1599866884868'>
+            <name>Table 2 - sorting of last names by alphabetic order</name>
+            <title>Table 2 - sorting of last names by alphabetic order</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-3'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1599866884868' status='passed' stop='1599866885033'>
+            <name>Table 2 - sorting of first names by alphabetic order</name>
+            <title>Table 2 - sorting of first names by alphabetic order</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-3'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
