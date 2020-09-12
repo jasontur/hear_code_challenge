@@ -10,7 +10,7 @@ describe('Dynamic Controls', () => {
         DynamicPage.open();
         DynamicPage.Remove();
         expect(DynamicPage.message)
-            .toHaveTextContaining("It's 1233!");
+            .toHaveTextContaining("It's gone!");
     });
     it('Input Field - Enable' , () => {
         DynamicPage.open();
