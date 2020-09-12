@@ -14,5 +14,6 @@ npm-debug.log
 # custom
 *.log
 chromeDriver
+allure-results
 
 package-lock.json
